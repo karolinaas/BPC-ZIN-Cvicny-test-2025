@@ -1,13 +1,13 @@
 const questions = [
     {
         question: "Jaký saxofon je na obrázku?",
-        questionImage: "media/sax.jpg",
+        questionImage: "media/alt sax.jpg",
         options: ["barytonový", "altový", "tenorový"],
         answer: "altový"
     },
     {
         question: "Na ukázce hraje nástroj",
-        audio: "media/ukazka5.mp3",
+        audio: "media/ukazka 5.mp3",
         options: ["violoncello", "kontrabas", "viola"],
         answer: "violoncello"
     },
@@ -43,8 +43,8 @@ const questions = [
     },
     {
         question: "Který z klíčů platí pro violu?",
-        images: ["media/housl_kl.png", "media/tenor_kl.jpg", "media/viol_kl.jpg", "media/bas_kl.jpg"],
-        answer: "media/viol_kl.jpg"
+        images: ["media/housl kl.png", "media/tenor kl.jpg", "media/viol kl.jpg", "media/bas kl.jpg"],
+        answer: "media/viol kl.jpg"
     },
     {
         question: "V Taylorově vzorci označuje písmeno",
@@ -65,19 +65,19 @@ const questions = [
     },
     {
         question: "Ve zvukové ukázce hrají",
-        audio: "media/ukazka1.mp3",
+        audio: "media/ukazka 1.mp3",
         options: ["housle", "viola", "violoncello"],
         answer: "housle"
     },
     {
         question: "Rozsah a rejstříky na obrázku platí",
-        questionImage: "media/cl_range.jpg",
+        questionImage: "media/cl range.jpg",
         options: ["pro příčnou flétnu", "pro altový saxofon", "pro klarinet"],
         answer: "pro klarinet"
     },
     {
         question: "Na ukázce hraje nástroj",
-        audio: "media/ukazka4.mp3",
+        audio: "media/ukazka 4.mp3",
         options: ["viola", "housle", "violoncello"],
         answer: "viola"
     },
@@ -88,7 +88,7 @@ const questions = [
     },
     {
         question: "Pasáž je hrána artikulací",
-        audio: "media/ukazka2.mp3",
+        audio: "media/ukazka 2.mp3",
         options: ["spicato", "legato", "pizzicato", "sautille"],
         answer: "spicato"
     },
@@ -99,7 +99,7 @@ const questions = [
     },
     {
         question: "Rozsah na obrázku zhruba platí pro",
-        questionImage: "media/irish_flt.png",
+        questionImage: "media/irish flt.png",
         options: ["altovou sopránovou flétnu", "altovou sopránovou flétnu", "irskou - sopránovou a zobcovou - sopránovou flétnu"],
         answer: "irskou - sopránovou a zobcovou - sopránovou flétnu"
     },
@@ -110,7 +110,7 @@ const questions = [
     },
     {
         question: "Na ukázce hraje nástroj",
-        audio: "media/ukazka6.mp3",
+        audio: "media/ukazka 6.mp3",
         options: ["kontrabas pizzicato", "kontrabas smyčcem", "violoncello smyčcem", "kontrabas smyčcem"],
         answer: "kontrabas pizzicato"
     },
@@ -142,7 +142,7 @@ const questions = [
     },
     {
         question: "Na ukázce hraje nástroj",
-        audio: "media/ukazka7.mp3",
+        audio: "media/ukazka 7.mp3",
         options: ["pikola ve vysoké poloze", "housle ve vysoké poloze", "viola ve vysoké poloze"],
         answer: "housle ve vysoké poloze"
     },
@@ -169,7 +169,7 @@ const questions = [
     },
     {
         question: "Na obrázku je spektrum",
-        questionImage: "media/cl_sp.jpg",
+        questionImage: "media/cl sp.jpg",
         options: ["klarinetu", "hoboje", "cembala"],
         answer: "klarinetu"
     },
@@ -180,7 +180,7 @@ const questions = [
     },
     {
         question: "Nejsnadněji se flétnistovi hraje trylek na klapkách, které ovládá malíček",
-        questionImage: "media/flt_trylek.jpg",
+        questionImage: "media/flt trylek.jpg",
         options: ["Pravda", "Nepravda"],
         answer: "Nepravda"
     },
@@ -316,7 +316,7 @@ const questions = [
     },
     {
         question: "Na obrázku je",
-        questionImage: "media/ind_flt.jpg",
+        questionImage: "media/ind flt.jpg",
         options: ["barokní flétna", "irská flétna", "indická flétna"],
         answer: "indická flétna"
     },
@@ -373,8 +373,7 @@ const questions = [
     },
     {
         question: "Které ladění platí pro loutnu?",
-        images: ["media/lad_balalaj.png", "media/lad_kyt.png"],
-        options: ["žádné z obrázků", "lad_balalaj.png", "lad_kyt.png"],
+        images: ["media/lad_balalaj.png", "media/lad_kyt.png", "žádné z obrázků"],
         answer: "žádné z obrázků"
     },
     {
@@ -425,12 +424,12 @@ const questions = [
     },
     {
         question: "Na obrázku je",
-        questionImage: "media/alt_flt.png",
+        questionImage: "media/alt flt.png",
         options: ["basová příčná flétna", "sopránová příčná flétna", "altová příčná flétna"],
         answer: "altová příčná flétna"
     },
     {
-        question: "O jakou smyčcovou artikulaci se jedná?",
+        question: "O jaký smyk se jedná?",
         questionImage: "media/tenuto.png",
         options: ["Detache", "Staccato", "Tenuto", "Spiccato", "Legato"],
         answer: "Tenuto"
@@ -462,8 +461,8 @@ const questions = [
     },
     {
         question: "Který z níže uvedených je Taylorův vzorec?",
-        images: ["media/2_1.jpg", "media/1.jpg", "media/3.jpg"],
-        answer: "media/2_1.jpg"
+        images: ["media/2 1.jpg", "media/1.jpg", "media/3.jpg"],
+        answer: "media/2 1.jpg"
     },
     {
         question: "Koto je východoasijský nástroj s pevně umístěnými kobylkami.",
@@ -472,7 +471,7 @@ const questions = [
     },
     {
         question: "Ve vzorci pro vznik třecích tónů chybí veličina",
-        questionImage: "media/treci_ton.jpg",
+        questionImage: "media/treci ton.jpg",
         options: ["u – vzdálenost hrany od štěrbiny", "l - délka píšťaly", "ϱ - hustota"],
         answer: "u – vzdálenost hrany od štěrbiny"
     },
@@ -551,7 +550,7 @@ const questions = [
     },
     {
         question: "Na obrázku jsou",
-        questionImage: "media/trsatka.jpg",
+        questionImage: "media/sham_trs.jpg",
         options: ["trsátka na shamizen", "trsátka na saz", "trsátka na různé balalajky"],
         answer: "trsátka na shamizen"
     },
