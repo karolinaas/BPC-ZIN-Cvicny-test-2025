@@ -373,8 +373,8 @@ const questions = [
     },
     {
         question: "Které ladění platí pro loutnu?",
-        images: ["media/lad_balalaj.png", "media/lad_kyt.png", "zadne z obrazku.png"],
-        answer: "zadne z obrazku.png"
+        images: ["media/lad_balalaj.png", "media/lad_kyt.png", "media/zadne z obrazku.png"],
+        answer: "media/zadne z obrazku.png"
     },
     {
         question: "V případě španělské kytary pravá ruka",
