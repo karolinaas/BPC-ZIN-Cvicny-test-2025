@@ -77,7 +77,7 @@ const questions = [
     },
     {
         question: "Na ukázce hraje nástroj",
-        audio: "media/ukazka 4.mp3",
+        audio: "media/ukázka 4.mp3",
         options: ["viola", "housle", "violoncello"],
         answer: "viola"
     },
@@ -131,7 +131,7 @@ const questions = [
     },
     {
         question: "Pasáž je hrána artikulací",
-        audio: "media/ukazka3.mp3",
+        audio: "media/ukazka 3.mp3",
         options: ["staccato", "pizzicato", "spicato"],
         answer: "pizzicato"
     },
@@ -142,7 +142,7 @@ const questions = [
     },
     {
         question: "Na ukázce hraje nástroj",
-        audio: "media/ukazka 7.mp3",
+        audio: "media/ukázka 7.mp3",
         options: ["pikola ve vysoké poloze", "housle ve vysoké poloze", "viola ve vysoké poloze"],
         answer: "housle ve vysoké poloze"
     },
@@ -373,8 +373,8 @@ const questions = [
     },
     {
         question: "Které ladění platí pro loutnu?",
-        images: ["media/lad_balalaj.png", "media/lad_kyt.png", "žádné z obrázků"],
-        answer: "žádné z obrázků"
+        images: ["media/lad_balalaj.png", "media/lad_kyt.png", "zadne z obrazku.png"],
+        answer: "zadne z obrazku.png"
     },
     {
         question: "V případě španělské kytary pravá ruka",
