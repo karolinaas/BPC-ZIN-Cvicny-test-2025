@@ -586,5 +586,71 @@ const questions = [
         question: "Kontrabas má oproti baskytaře",
         options: ["Výraznější formantové oblasti díky módům rezonanční skříně", "Méně výrazné formantové oblasti", "Někdy výraznější formantové oblasti, ale nevíme proč"],
         answer: "Výraznější formantové oblasti díky módům rezonanční skříně"
+    },
+    {
+        question: "Lesnice má 3 ventily.",
+        options: ["Pravda", "Nepravda"],
+        answer: "Nepravda"
+    },
+    {
+        question: "Na bezpražcovou kytaru se snadněji provádějí plynulé glissy s finálním doladěním tónu",
+        options: ["Pravda", "Nepravda"],
+        answer: "Pravda"
+    },
+    {
+        question: "Snímač",
+        options: ["single coil má jednu cívku, slabší signál, šumí, ale je živější a ostřejší.", "single coil má dvě cívky, silnější signál, ale více šumí.", "humbucker má jednu cívku, silnější signál, ale více šumí."],
+        answer: "single coil má jednu cívku, slabší signál, šumí, ale je živější a ostřejší."
+    },
+    {
+        question: "Guiro",
+        options: ["funguje na principu vibrlování.", "je japonský nástroj, na který se vybrnkává speciálním trsátkem", "funguje na principu AM, přejížděním paličky přes vroubky"],
+        answer: "funguje na principu AM, přejížděním paličky přes vroubky"
+    },
+    {
+        question: "Hammondovy varhany: Při přibližování snímače k ozubenému kolečku se mění",
+        options: ["síla tónu", "barva tónu", "výška tónu"],
+        answer: "síla tónu"
+    },
+    {
+        question: "Skládání barev ze základních píšťal:",
+        options: ["superoktáva plní úlohu 4. harmonické, principál 1. harmonické", "píšťala superoktáva plní funkci 2. harmonické, oktáva 4. harmonické", "principál plní úlohu 3. harmonické"],
+        answer: "superoktáva plní úlohu 4. harmonické, principál 1. harmonické"
+    },
+    {
+        question: "Na obrázku je",
+        questionImage: "media/vorno inglese.jpg",
+        options: ["horno", "duduk", "oboe", "corno inglese"],
+        answer: "corno inglese"
+    },
+    {
+        question: "Tuba má",
+        options: ["díky úzké menzuře širokou barvu", "díky úzké menzuře úzkou barvu", "díky široké menzuře úzkou barvu"],
+        answer: "díky široké menzuře úzkou barvu"
+    },
+    {
+        question: "Tvarovací syntéza (waveshaping) patří mezi aditivní syntézy",
+        options: ["Pravda", "Nepravda"],
+        answer: "Nepravda"
+    },
+    {
+        question: "Pedálem u tympánu",
+        options: ["tlumíme intenzitu tónu", "zkracujeme délku tónu", "měníme výšku tónu"],
+        answer: "měníme výšku tónu"
+    },
+    {
+        question: "Písty u žešťů mají za úkol",
+        options: ["zkrátit vzduchový sloupec", "prodloužit vzduchový sloupec a tím zvýšit tón", "prodloužit vzduchový sloupec a tím snížit tón"],
+        answer: "prodloužit vzduchový sloupec a tím snížit tón"
+    },
+    {
+        question: "Parametrem Presence posilujeme",
+        options: ["pásmo pod úrovní treshold", "pásmo ostrosti", "basové pásmo"],
+        answer: "pásmo ostrosti"
+    },
+    {
+        question: "Nátrubkovým tónem rozumíme rezonanci vznikající",
+        options: ["na rtech", "v celém nátrubku", "jen v kotlíku", "jen ve stopce"],
+        answer: "v celém nátrubku"
     }
 ];
